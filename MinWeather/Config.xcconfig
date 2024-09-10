@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  MinWeather
+//
+//  Created by Thiago Souza on 10/09/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = 00000000000000000000000000000000
